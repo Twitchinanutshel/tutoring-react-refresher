@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Lena Schneider",
+    "location": "Berlin, DE",
+    "languageLevel": "Advanced",
+    "description": "Experienced German tutor specializing in business German and advanced conversation skills. Offers personalized lessons and flexible scheduling.",
+    "rate": "€50 per hour",
+    "availability": "Evenings and weekends",
+    "contactEmail": "lena.schneider@example.com",
+    "contactPhone": "+49-30-12345678"
+  },
+  {
+    "id": "2",
+    "name": "Markus Bauer",
+    "location": "Munich, DE",
+    "languageLevel": "Beginner to Intermediate",
+    "description": "Friendly tutor with a passion for teaching German to beginners and intermediate students. Utilizes engaging methods to make learning enjoyable.",
+    "rate": "€40 per hour",
+    "availability": "Weekends",
+    "contactEmail": "markus.bauer@example.com",
+    "contactPhone": "+49-89-23456789"
+  },
+  {
+    "id": "3",
+    "name": "Sophie Fischer",
+    "location": "Frankfurt, DE",
+    "languageLevel": "Advanced",
+    "description": "Skilled German tutor with a focus on advanced grammar and literature. Offers both in-person and online lessons.",
+    "rate": "€55 per hour",
+    "availability": "Weekdays",
+    "contactEmail": "sophie.fischer@example.com",
+    "contactPhone": "+49-69-34567890"
+  },
+  {
+    "id": "4",
+    "name": "Johann Weber",
+    "location": "Düsseldorf, DE",
+    "languageLevel": "All Levels",
+    "description": "Versatile tutor available for all levels of German learners. Specializes in exam preparation and conversational practice.",
+    "rate": "€45 per hour",
+    "availability": "Flexible",
+    "contactEmail": "johann.weber@example.com",
+    "contactPhone": "+49-211-45678901"
+  },
+  {
+    "id": "5",
+    "name": "Clara Müller",
+    "location": "Hamburg, DE",
+    "languageLevel": "Intermediate to Advanced",
+    "description": "Experienced tutor offering lessons for intermediate to advanced learners, with a focus on business German and professional communication.",
+    "rate": "€60 per hour",
+    "availability": "Evenings and weekends",
+    "contactEmail": "clara.mueller@example.com",
+    "contactPhone": "+49-40-56789012"
+  },
+  {
+    "id": "6",
+    "name": "Emma Klein",
+    "location": "Stuttgart, DE",
+    "languageLevel": "Beginner to Intermediate",
+    "description": "Patient and engaging tutor for beginners and intermediate students. Offers interactive lessons to help students build confidence in speaking German.",
+    "rate": "€35 per hour",
+    "availability": "Weekdays",
+    "contactEmail": "emma.klein@example.com",
+    "contactPhone": "+49-711-67890123"
+  }
+]
